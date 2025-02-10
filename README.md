@@ -1,6 +1,6 @@
 # Amazon Web Scraper
 
-![Project Screenshot](https://github.com/Jerin2004/Web_Scrapping-Python/blob/main/app.py)
+![Project Screenshot](ama.jpeg)
 
 ## Project Description
 This project is a web scraper built using Python to extract product details from the Amazon website. It gathers information such as product names, prices, ratings, and reviews, and stores the data in a structured format for further analysis.
